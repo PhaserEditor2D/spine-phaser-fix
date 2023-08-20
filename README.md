@@ -1,3 +1,3 @@
-# spine-ts Phaser
+# Spine Phaser runtime (fix)
 
-Please see the top-level [README.md](../README.md) for more information.
+This is a fix to the spine-phaser runtime. The fix adds Asset Pack support.
